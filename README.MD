@@ -15,7 +15,7 @@ Please manage your time wisely to ensure you can complete all questions.
 
 2. **Remove the .git Folder**: After cloning, navigate into the cloned directory and remove the .git folder to detach it from the original repository:
 `cd Cohort4PythonTest`
-`rm -rf .git` Use the git bash terminal to run this command
+`/` Use the git bash terminal to run this command
 
 3. **Create Your Own Repository**: Create a new Git repository on your GitHub account named:
 `PythonTest<StudentName>` 
